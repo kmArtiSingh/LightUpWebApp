@@ -1,0 +1,164 @@
+/*
+font-family: 'Rubik', sans-serif;
+font-family: 'Coda Caption', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+body{
+    
+}
+.banner{
+    position: relative;
+}
+.navigation{
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    font-family: 'Rubik', sans-serif;
+    padding: 20px 0px;
+    
+}
+.navigation .navbar-brand {
+font-family: 'Coda Caption', sans-serif;
+color: #303030;
+margin-left: 40px;
+font-size: 20px;
+}
+.navigation .navbar-brand span{
+    color: #f1ad50;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    font-family: 'Rubik', sans-serif;
+    color: #080808;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding:10px 15px;
+    margin: 0px 5px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    background-color:#f1ad50;
+    padding:10px 15px;
+    border-radius: 50px;
+}
+.navbar-nav{
+    margin-right: 120px;
+}
+
+.content{
+    border: 1px solid red;
+}
+.content h2{
+    font-size: 35px;
+    color: #f1ad50;
+}
+.content p{
+    color: #080808;
+    font-size: 20px;
+}
+.ser-cont {
+    width: 730px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    padding: 40px 0px;
+}
+.ser .ser-cont h2{
+    font-size: 32px;
+    color: #1b1e24;
+    font-family: 'Coda Caption', sans-serif;
+    margin: 0 0 8px;
+}
+.ser .ser-cont p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #6c757d;
+    margin: 0 0 16px;
+}
+.ser{
+    padding: 30px 0px;
+}
+.ser .ser-item{
+    width: 380px;
+    padding: 10px 15px;
+    text-align: center;
+    line-height: 30px;
+}
+.ser .ser-item h3 {
+    color: #1b1e24;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin:10px 0px;
+    font-weight: 900;
+}
+.about{
+    background-color: #eeeeee;
+    text-align: center;
+}
+.about-h {
+    width: 730px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    padding: 40px 0px;
+}
+.about .about-h h2{
+    font-size: 32px;
+    color: #1b1e24;
+    font-family: 'Coda Caption', sans-serif;
+    margin: 0 0 8px;
+}
+.about .about-h p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: #6c757d;
+    margin: 0 0 16px;
+}
+.about img {
+    width: 400px;
+    border-radius: 5px;
+}
+.about .right-a {
+    text-align: left;
+    padding: 50px 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 50px;
+}
+.about .right-a h2{
+    font-size: 28px;
+    margin: 0 0 24px;
+    color: #1b1e24;
+}
+.about .right-a  p{
+   font-size: 16px;
+    color: #6c757d;
+    margin: 0 0 16px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
